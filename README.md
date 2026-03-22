@@ -1,6 +1,6 @@
 # Isabela Carone
 
-Estudante de TI com foco em Visão Computacional e IA aplicada à saúde.  
+Graduanda em Sistemas de Informação com foco em Visão Computacional e IA aplicada à saúde.  
 Desenvolvendo meu TCC sobre **detecção de doenças com redes neurais**.
 
 Vitória, Brasil — [LinkedIn](https://www.linkedin.com/in/isabela-carone-lacerda-15518023b/) · [Instagram](https://www.instagram.com/isabela_carone/)
