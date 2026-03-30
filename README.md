@@ -2,8 +2,6 @@
 
 Graduanda em Sistemas de Informação com foco em Visão Computacional e Machine Learning.  
 
-Vitória, Brasil 
-
 [LinkedIn](https://www.linkedin.com/in/isabela-carone-lacerda-15518023b/) 
 
 ---
