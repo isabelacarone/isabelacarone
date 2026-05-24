@@ -20,6 +20,7 @@ Graduanda em Sistemas de Informação com foco em Visão Computacional e Machine
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 ![PyDICOM](https://img.shields.io/badge/PyDICOM-0077B5?style=flat-square&logo=python&logoColor=white)
+![NiBabel](https://img.shields.io/badge/NiBabel-3776AB?style=flat&logo=python&logoColor=white)
 
 ---
 
